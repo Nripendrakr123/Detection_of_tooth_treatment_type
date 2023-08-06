@@ -7,5 +7,5 @@ Detection of treatment types in dental panoramic radiographs is still an open pr
 
 
 
-![Model Result](https://github.com/Nripendrakr123/Detection_of_tooth_treatment_type/blob/main/image_output/cate2-00001.png)
+![MOdel](https://github.com/Nripendrakr123/Detection_of_tooth_treatment_type/blob/main/image_output/Architecture_main.jpg)
 
